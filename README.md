@@ -1,4 +1,4 @@
-Linux Wizardry in OpenShift Presentation
-========================================
+Linux Containers Presentation
+=============================
 
-Northeast GNU / Linuxfest Presentation on how OpenShift uses Linux.
+Linux Containers Presentation
